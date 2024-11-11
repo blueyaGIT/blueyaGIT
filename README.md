@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://discord.com/channels/620688634781106177/620688634781106181/1305564375066738700" height="30" alt="python logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F93990%2Fassembly&psig=AOvVaw1yMnUF6Ovc9SN4fvR4BZXQ&ust=1731427596024000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICJscjU1IkDFQAAAAAdAAAAABAE" height="30" alt="assembly logo"  />
   <img width="12" />
 </div>
 
