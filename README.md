@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Marzia,  a student and Motorsport enthusiast</h2>
+<h2 align="center">Hi 👋! I'm Marzia,  a student at 42 Heilbronn</h2>
 
 ###
 
