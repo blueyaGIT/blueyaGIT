@@ -89,8 +89,8 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blueyaGIT&theme=ocean_dark&utcOffset=8" height="100" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blueyaGIT&theme=ocean_dark" height="100"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blueyaGIT&theme=ocean_dark&utcOffset=8" height="200" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blueyaGIT&theme=ocean_dark" height="200"/>
 </div>
 
 ###
