@@ -3,14 +3,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blueyaGIT&area=true&radius=10&hide_border=false&theme=nightowl" height="206" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blueyaGIT&area=true&radius=10&hide_border=false&theme=nightowl" height="206"
+    alt="activity-graph graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blueyaGIT&theme=nightowl" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blueyaGIT&theme=nightowl" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blueyaGIT&theme=nightowl" height="150"
+    alt="repo-language graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blueyaGIT&theme=nightowl" height="150"
+    alt="commit-language graph" />
 </div>
 
 ###
