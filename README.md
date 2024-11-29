@@ -6,8 +6,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blueyaGIT&area=true&radius=10&hide_border=false&theme=nightowl" height="206" alt="activity-graph graph"  />
 </div>
 
-### 🛠 Programming languages and technologies I play around with:
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blueyaGIT&theme=tokyonight)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blueyaGIT&theme=tokyonight" />
+</div>
 
 
 ###
