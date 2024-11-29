@@ -9,6 +9,7 @@
 ###
 
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blueyaGIT&theme=nightowl" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blueyaGIT&theme=tokyonight" />
 </div>
 
