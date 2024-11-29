@@ -84,10 +84,10 @@
 
 ###
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blueyaGIT&theme=nightowl&utcOffset=8)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blueyaGIT&theme=nightowl&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blueyaGIT&theme=nightowl" />
+</div>
 
 ###
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blueyaGIT&theme=nightowl)
-
-###
