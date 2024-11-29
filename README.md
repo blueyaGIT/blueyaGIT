@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blueyaGIT&area=true&radius=10&hide_border=false&theme=tokyonight" height="206"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blueyaGIT&area=true&radius=10&hide_border=false&theme=nightowl" height="206"
     alt="activity-graph graph"  />
 </div>
 
@@ -89,8 +89,8 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blueyaGIT&theme=nightowl&utcOffset=8" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blueyaGIT&theme=nightowl" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blueyaGIT&theme=ocean_dark&utcOffset=8" height="100" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blueyaGIT&theme=ocean_dark" height="100"/>
 </div>
 
 ###
