@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blueyaGIT&area=true&radius=10&hide_border=false&theme=ocean_dark" height="206"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blueyaGIT&area=true&radius=10&hide_border=false&theme=tokyonight" height="206"
     alt="activity-graph graph"  />
 </div>
 
