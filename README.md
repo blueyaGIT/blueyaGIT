@@ -30,6 +30,10 @@
 
 ###
 
+[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007ACC?logo=assemblyscript&logoColor=white)](#)
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
