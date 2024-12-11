@@ -55,10 +55,7 @@
 
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
   [![Github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=fff)](#)
-  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?logo=visualstudiocode&logoColor=white)](#)
-<a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
-  </a>
+  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?logo=vscodium&logoColor=white)](#)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
   [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)](#)
   [![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)](#)
