@@ -29,6 +29,7 @@
 <h3 align="center">Languages I speak</h3>
 
 ###
+<div align="center">
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)](#)
@@ -41,6 +42,8 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007ACC?logo=assemblyscript&logoColor=white)](#)
+
+</div>
 
 ###
 
