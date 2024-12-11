@@ -39,6 +39,7 @@
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=fff)](#)
 [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007ACC?logo=assemblyscript&logoColor=white)](#)
 
 ###
