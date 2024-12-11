@@ -56,7 +56,7 @@
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
   [![Github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=fff)](#)
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?logo=visualstudiocode&logoColor=white)](#)
-  [![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)](#)
+  [![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)](#)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
   [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)](#)
   [![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)](#)
