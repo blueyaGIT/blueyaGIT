@@ -38,39 +38,13 @@
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
   [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
   [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+  ###
   [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
   [![PHP](https://img.shields.io/badge/php-777BB4?logo=php&logoColor=fff)](#)
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
   [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007ACC?logo=assemblyscript&logoColor=white)](#)
   
 </div>
-
-<style>
-  .badge-container {
-    display: flex;
-    flex-wrap: wrap;  /* Allows items to wrap onto the next line */
-    justify-content: center;  /* Centers the items horizontally */
-    gap: 10px;  /* Adds space between the badges */
-  }
-
-  .badge-container a {
-    flex: 0 0 calc(20% - 10px);  /* Each badge takes 20% of the row, minus gap */
-    display: block;
-  }
-
-  /* Optional: Make the badges responsive on smaller screens */
-  @media (max-width: 800px) {
-    .badge-container a {
-      flex: 0 0 calc(33.33% - 10px);  /* 3 badges per row on smaller screens */
-    }
-  }
-
-  @media (max-width: 500px) {
-    .badge-container a {
-      flex: 0 0 calc(50% - 10px);  /* 2 badges per row on even smaller screens */
-    }
-  }
-</style>
 
 ###
 
