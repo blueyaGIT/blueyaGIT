@@ -29,7 +29,7 @@
 <h3 align="center">Languages I speak</h3>
 
 ###
-<div align="center" width=1000>
+<div align="center" class="badge-container">
   
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
   [![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)](#)
@@ -44,6 +44,33 @@
   [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007ACC?logo=assemblyscript&logoColor=white)](#)
   
 </div>
+
+<style>
+  .badge-container {
+    display: flex;
+    flex-wrap: wrap;  /* Allows items to wrap onto the next line */
+    justify-content: center;  /* Centers the items horizontally */
+    gap: 10px;  /* Adds space between the badges */
+  }
+
+  .badge-container a {
+    flex: 0 0 calc(20% - 10px);  /* Each badge takes 20% of the row, minus gap */
+    display: block;
+  }
+
+  /* Optional: Make the badges responsive on smaller screens */
+  @media (max-width: 800px) {
+    .badge-container a {
+      flex: 0 0 calc(33.33% - 10px);  /* 3 badges per row on smaller screens */
+    }
+  }
+
+  @media (max-width: 500px) {
+    .badge-container a {
+      flex: 0 0 calc(50% - 10px);  /* 2 badges per row on even smaller screens */
+    }
+  }
+</style>
 
 ###
 
