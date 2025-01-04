@@ -58,7 +58,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" alt="Apache" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
-  
   <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="Canva" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" alt="CMake" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
