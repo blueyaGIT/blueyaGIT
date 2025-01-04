@@ -29,22 +29,21 @@
 <h3 align="center">Languages I speak</h3>
 
 ###
-<div align="center" class="badge-container">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="C++" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
   
-  [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-  [![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)](#)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-  [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-  ###
-  [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-  [![PHP](https://img.shields.io/badge/php-777BB4?logo=php&logoColor=fff)](#)
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-  [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007ACC?logo=assemblyscript&logoColor=white)](#)
-  
+  <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=fff" alt="PHP" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AssemblyScript-007ACC?logo=assemblyscript&logoColor=white" alt="AssemblyScript" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
 </div>
+
 
 ###
 
