@@ -29,7 +29,7 @@
 <h3 align="center">Languages I speak</h3>
 
 ###
-<div align="center">
+<div align="center" width=1000>
   
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
   [![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)](#)
