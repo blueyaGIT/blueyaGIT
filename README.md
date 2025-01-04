@@ -52,7 +52,7 @@
 ###
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" style="flex: 0 0 calc(20% - 10px); display: block;" / </a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=fff" alt="Github" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?logo=vscodium&logoColor=white" alt="Visual Studio Code" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
