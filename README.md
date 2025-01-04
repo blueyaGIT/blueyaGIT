@@ -51,21 +51,21 @@
 
 ###
 
-<div align="center">
-
-  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-  [![Github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=fff)](#)
-  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?logo=vscodium&logoColor=white)](#)
-  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
-  [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)](#)
-  [![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)](#)
-  [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](#)
-  [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
-  [![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)](#)
-  [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=white)](#)
-  [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#)
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" style="flex: 0 0 calc(20% - 10px); display: block;" / </a>
+  <a href="#"><img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=fff" alt="Github" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?logo=vscodium&logoColor=white" alt="Visual Studio Code" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" alt="Apache" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  
+  <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="Canva" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" alt="CMake" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=white" alt="Homebrew" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white" alt="Insomnia" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
 </div>
+
 
 ###
 
