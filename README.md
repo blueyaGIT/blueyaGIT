@@ -40,7 +40,6 @@
   <a href="#"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" style="flex: 0 0 calc(20% - 10px); display: block;" /></a> 
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=fff" alt="PHP" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/AssemblyScript-007ACC?logo=assemblyscript&logoColor=white" alt="AssemblyScript" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
 </div>
 
