@@ -72,7 +72,7 @@
 
 ###
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center">
   <a href="https://github.com/bluegaGIT/libft">![42 Badge](https://github.com/blueyaGIT/blueyaGIT/blob/main/42_badges/libftm.png)</a>
 <a href="https://github.com/blueyaGIT/get_next_line">![42 Badge](https://github.com/blueyaGIT/blueyaGIT/blob/main/42_badges/get_next_linem.png)</a>
 <a href="https://github.com/blueyaGIT/printf">![42 Badge](https://github.com/blueyaGIT/blueyaGIT/blob/main/42_badges/ft_printfn.png)</a>
