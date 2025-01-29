@@ -75,9 +75,11 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 <a href="https://github.com/blueyaGIT/libft"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/libfte.png" alt="libft" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
-<a href="https://github.com/blueyaGIT/get_next_line">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/get_next_linem.png)</a>
-<a href="https://github.com/blueyaGIT/printf">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_printfn.png)</a>
-<a href="">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/born2berootm.png)</a>
+<a href="https://github.com/blueyaGIT/get_next_line"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/get_next_linem.png" alt="gnl" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+<a href="https://github.com/blueyaGIT/printf"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_printfn.png" alt="libft" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+<a><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/born2berootm.png" alt="B2BR" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+<a href="https://github.com/blueyaGIT/minitalk"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/minitalkm.png" alt="libft" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
+<a href="https://github.com/blueyaGIT/so_long"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/so_longn.png" alt="libft" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
 
 </div>
 
