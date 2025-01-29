@@ -70,7 +70,7 @@
 
 ###
 
-## 42 Projects
+<h3 align="center">42 Projects</h3>
 
 <details>
 <summary>Click to expand</summary>
@@ -80,10 +80,9 @@
 | <img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/libftm.png" alt="libft" width="50">                                                                                     | Recreation of standard C Libraries to use in Future projects.                                                                                                                        | 100 /<br>100 ✅ | 25 /<br> 25 💫 |
 | <a href="https://github.com/blueyaGIT/get_next_line"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/get_next_linee.png" alt="get_next_line" width="50"></a> | Function that returns a text line by line from a file descriptor to teach about static variables.                                                                                                                     | 100 /<br>100 ✅ | 25 /<br> 25 💫 |
 | <a href="https://github.com/blueyaGIT/printf"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/ft_printfn.png" alt="ft_printf" width="50"></a>             | Recoding of the C printf function.                                                                                                                           | 100 /<br>100 ✅ | 02 /<br> 25 💫 |
-| <img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/born2beroote.png" alt="born2beRoot" width="50">                                                 | Introduction to system admin using Debian & VirtualBox.                                                                                                                                                               | 100 /<br>100 ✅ | 0 /<br> 25 💫 |
+| <img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/born2beroote.png" alt="born2beRoot" width="50">                                                 | Introduction to system admin using Debian & VirtualBox.                                                                                                                                                               | 100 /<br>100 ✅ | 00 /<br> 25 💫 |
 | <a href="https://github.com/blueyaGIT/minitalk"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/minitalke.png" width="50"></a>                                                      | Introduction Project to UNIX signals.                                                                                                                                                                                 | 100 /<br>100 ✅ | 25 /<br> 25💫  |
-| <a href="https://github.com/blueyaGIT/so_long"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/so_longn.png" width="50"></a>                                                 | Creating a small 2D game with MLX42                                                                               | 100 /<br>100 ✅ | 0 /<br> 25💫  |
-| 
+| <a href="https://github.com/blueyaGIT/so_long"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/so_longn.png" width="50"></a>                                                 | Creating a small 2D game with MLX42                                                                               | 100 /<br>100 ✅ | 00 /<br> 25💫  |
 
 </details>
 
