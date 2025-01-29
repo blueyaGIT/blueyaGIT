@@ -72,7 +72,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 <a href="https://github.com/blueyaGIT/libft">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/libfte.png)</a>
 <a href="https://github.com/blueyaGIT/get_next_line">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/get_next_linem.png)</a>
