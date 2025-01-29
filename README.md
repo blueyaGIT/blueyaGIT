@@ -72,7 +72,7 @@
 
 <h3 align="center">42 Projects</h3>
 
-<details>
+<details align="center">
 <summary>Click to expand</summary>
 
 | Project                                                                                                                                                                             | Description                                                                                                                                                                                                           | Core Grade      | Bonus Grade    |
