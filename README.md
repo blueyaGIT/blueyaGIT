@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">
+<h2 align="center">
   Hi 👋! I'm Marzia, a student at <a href="https://www.42heilbronn.de/en/" target="_blank">42 Heilbronn</a>
 </h2>
 
