@@ -68,9 +68,17 @@
 
 ###
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blueyaGIT&theme=ocean_dark&utcOffset=1" height="175" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blueyaGIT&theme=ocean_dark" height="175"/>
+<h3 align="center">42 Projects</h3>
+
+###
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/bluegaGIT/libft">![42 Badge](https://github.com/blueyaGIT/blueyaGIT/blob/main/42_badges/libftm.png)</a>
+<a href="https://github.com/blueyaGIT/get_next_line">![42 Badge](https://github.com/blueyaGIT/blueyaGIT/blob/main/42_badges/get_next_linem.png)</a>
+<a href="https://github.com/blueyaGIT/printf">![42 Badge](https://github.com/blueyaGIT/blueyaGIT/blob/main/42_badges/ft_printfn.png)</a>
+<a>![42 Badge](https://github.com/blueyaGIT/blueyaGIT/blob/main/42_badges/born2berootm.png)</a>
+<a href="https://github.com/blueyaGIT/minitalk">![42 Badge](https://github.com/blueyaGIT/blueyaGIT/blob/main/42_badges/minitalkm.png)</a>
+<a href="https://github.com/blueyaGIT/so_long">![42 Badge](https://github.com/blueyaGIT/blueyaGIT/blob/main/42_badges/so_longm.png)</a>
 </div>
 
 ###
