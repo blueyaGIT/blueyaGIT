@@ -1,4 +1,6 @@
-Hi 👋! I'm Marzia, a student at [42 Heilbronn](https://www.42heilbronn.de/en/)
+<h2 style="text-align: center;">
+  Hi 👋! I'm Marzia, a student at <a href="https://www.42heilbronn.de/en/" target="_blank">42 Heilbronn</a>
+</h2>
 
 ###
 
