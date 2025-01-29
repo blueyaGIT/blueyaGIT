@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blueyaGIT&theme=nightowl" height="150"
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blueyaGIT&theme=tokyo_night" height="150"
     alt="repo-language graph" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blueyaGIT&theme=ocean_dark" height="150"
     alt="commit-language graph" />
