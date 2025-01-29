@@ -80,6 +80,7 @@
 <a><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/born2berootm.png" height="60" alt="b2br"/><img width="12" /></a>
 <a href="https://github.com/blueyaGIT/minitalk"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/minitalkm.png" height="60" alt="minitalk"/><img width="12" /></a>
 <a href="https://github.com/blueyaGIT/so_long"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/so_longn.png" height="60" alt="so_long"/><img width="12" /></a>
+<a href="https://github.com/blueyaGIT/push_swap"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/push_swape.png" height="60" alt="push_swap"/><img width="12" /></a>
 
 </div>
 
