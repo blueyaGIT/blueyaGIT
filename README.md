@@ -74,13 +74,13 @@
 
 <div align="center">
 
-<a href="https://github.com/blueyaGIT/libft"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/libftm.png" height="60" alt="libft"/><img width="12" /></a>
-<a href="https://github.com/blueyaGIT/get_next_line"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/get_next_linem.png" height="60" alt="gnl"/><img width="12" /></a>
-<a href="https://github.com/blueyaGIT/printf"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_printfn.png" height="60" alt="printf"/><img width="12" /></a>
+<a href="https://github.com/blueyaGIT/libft"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/libftm.png" height="60" alt="libft"/><img width="12" /></a>
+<a href="https://github.com/blueyaGIT/get_next_line"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/get_next_linem.png" height="60" alt="gnl"/><img width="12" /></a>
+<a href="https://github.com/blueyaGIT/printf"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/ft_printfn.png" height="60" alt="printf"/><img width="12" /></a>
 <a><img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/born2berootn.png" height="60" alt="b2br"/><img width="12" /></a>
-<a href="https://github.com/blueyaGIT/minitalk"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/minitalkm.png" height="60" alt="minitalk"/><img width="12" /></a>
-<a href="https://github.com/blueyaGIT/so_long"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/so_longn.png" height="60" alt="so_long"/><img width="12" /></a>
-<a href="https://github.com/blueyaGIT/push_swap"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/push_swape.png" height="60" alt="push_swap"/><img width="12" /></a>
+<a href="https://github.com/blueyaGIT/minitalk"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/minitalkm.png" height="60" alt="minitalk"/><img width="12" /></a>
+<a href="https://github.com/blueyaGIT/so_long"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/so_longn.png" height="60" alt="so_long"/><img width="12" /></a>
+<a href="https://github.com/blueyaGIT/push_swap"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/8c87b7d8844ae2722bd17ac47e8c1a7dd95a2475/42_badges/push_swape.png" height="60" alt="push_swap"/><img width="12" /></a>
 
 </div>
 
