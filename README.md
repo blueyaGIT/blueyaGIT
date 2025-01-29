@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Marzia, a student at </h2> [42 Heilbronn](https://www.42heilbronn.de/en/)
+<h2 align="center">Hi 👋! I'm Marzia, a student at [42 Heilbronn](https://www.42heilbronn.de/en/) </h2>
 
 ###
 
