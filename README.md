@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi 👋! I'm Marzia, a student at <a href="https://www.42heilbronn.de/en/" target="_blank">42 Heilbronn</a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=BF94E4&center=true&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Marzia)](https://git.io/typing-svg)
 </h2>
 
 ###
@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/blueya/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=BF94E4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
