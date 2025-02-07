@@ -78,7 +78,7 @@
 | Project | Description | Grade |
 |---------|------------|------------|
 | <a href="https://github.com/blueyaGIT/libft"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/libftm.png" alt="libft" width="50"></a> | Recreation of standard C Libraries to use in Future projects. | 125 / 100 |
-| <a href="https://github.com/blueyaGIT/get_next_line"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/get_next_linem.png" alt="get_next_line" width="50"></a> | Function that returns a text line by line from a file descriptor to teach about static variables. | 125 / 100 |
+| <a href="https://github.com/blueyaGIT/get_next_line"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/get_next_linem.png" alt="get_next_line" width="50"></a> | Function that returns a text line by line from a file descriptor to teach about static variables. \| 125 / 100 \|
 | <a href="https://github.com/blueyaGIT/printf"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/ft_printfe.png" alt="ft_printf" width="50"></a> | Recoding of the C printf function. | 102 / 100 |
 | <img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/born2beroote.png" alt="born2beRoot" width="50"> | Introduction to system admin using Debian & VirtualBox. | 100 / 100 |
 | <a href="https://github.com/blueyaGIT/minitalk"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/minitalkm.png" width="50"></a> | Introduction Project to UNIX signals. | 125 / 100 |
