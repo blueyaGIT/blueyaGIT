@@ -77,14 +77,14 @@
 
 | Project | Description | Grade |
 |:---------|:------------:|:------------:|
-| <a href="https://github.com/blueyaGIT/libft"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/libftm.png" alt="libft" width="50"></a> | Recreation of standard C Libraries to use in Future projects. | <pre> `125 / 100` </pre> |
-| <a href="https://github.com/blueyaGIT/get_next_line"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/get_next_linem.png" alt="get_next_line" width="50"></a> | Function that returns a text line by line from a file descriptor to teach about static variables. | <pre> `125 / 100` </pre> |
-| <a href="https://github.com/blueyaGIT/printf"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/ft_printfe.png" alt="ft_printf" width="50"></a> | Recoding of the C printf function. | <pre> `102 / 100` </pre> |
-| <img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/born2beroote.png" alt="born2beRoot" width="50"> | Introduction to system admin using Debian & VirtualBox. | <pre> `100 / 100` </pre> |
-| <a href="https://github.com/blueyaGIT/minitalk"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/minitalkm.png" width="50"></a> | Introduction Project to UNIX signals. | <pre> `125 / 100` </pre> |
-| <a href="https://github.com/blueyaGIT/so_long"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/so_longe.png" width="50"></a> | Creating a small 2D game with MLX42. | <pre> `100 / 100` </pre> |
-| <a href="https://github.com/blueyaGIT/push_swap"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/push_swape.png" width="50"></a> | Using a limited moveset to find the best way to sort two stacks. | <pre> ` 98 / 100` </pre> |
-| <a href="https://github.com/blueyaGIT/minishell"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/minishelln.png" width="50"></a> | Making a custom shell with brackets for priorities, ’, ", <, >, <<, >>, pipes, $, $?, a history, echo, cd, pwd, export, unset, env, exit, correct executable execution, and more. | <pre> ` 🛠️  / 100` </pre> |
+| <a href="https://github.com/blueyaGIT/libft"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/libftm.png" alt="libft" width="50"></a> | Recreation of standard C Libraries to use in Future projects. | <pre> 125 / 100 </pre> |
+| <a href="https://github.com/blueyaGIT/get_next_line"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/get_next_linem.png" alt="get_next_line" width="50"></a> | Function that returns a text line by line from a file descriptor to teach about static variables. | <pre> 125 / 100 </pre> |
+| <a href="https://github.com/blueyaGIT/printf"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/ft_printfe.png" alt="ft_printf" width="50"></a> | Recoding of the C printf function. | <pre> 102 / 100 </pre> |
+| <img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/born2beroote.png" alt="born2beRoot" width="50"> | Introduction to system admin using Debian & VirtualBox. | <pre> 100 / 100 </pre> |
+| <a href="https://github.com/blueyaGIT/minitalk"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/minitalkm.png" width="50"></a> | Introduction Project to UNIX signals. | <pre> 125 / 100 </pre> |
+| <a href="https://github.com/blueyaGIT/so_long"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/so_longe.png" width="50"></a> | Creating a small 2D game with MLX42. | <pre> 100 / 100 </pre> |
+| <a href="https://github.com/blueyaGIT/push_swap"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/push_swape.png" width="50"></a> | Using a limited moveset to find the best way to sort two stacks. | <pre>  98 / 100 </pre> |
+| <a href="https://github.com/blueyaGIT/minishell"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/minishelln.png" width="50"></a> | Making a custom shell with brackets for priorities, ’, ", <, >, <<, >>, pipes, $, $?, a history, echo, cd, pwd, export, unset, env, exit, correct executable execution, and more. | <pre>  🛠️  / 100 </pre> |
 
 </details>
 
