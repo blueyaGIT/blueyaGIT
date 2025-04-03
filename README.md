@@ -2,6 +2,10 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=BF94E4&center=true&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Marzia;%F0%9F%8C%B1+Currently+learning+C+%F0%9F%8C%B1;%E2%9C%A8+Favourite+42+project%3A+minishell+%E2%9C%A8" alt="Typing SVG" /></a>
 </h2>
 
+<!--START_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/JorFik/JorFik/master/assets/dark_souls.gif height=100% width=100% align="center" alt="Github Banner" />
+<!--END_SECTION:update_image-->
+
 ###
 
 <div align="center">
@@ -67,6 +71,12 @@
   <a href="#"><img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=white" alt="Homebrew" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white" alt="Insomnia" style="flex: 0 0 calc(20% - 10px); display: block;" /></a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blueyaGIT/blueyaGIT/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blueyaGIT/blueyaGIT/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/blueyaGIT/blueyaGIT/output/github-snake.svg" />
+</picture>
 
 
 ###
