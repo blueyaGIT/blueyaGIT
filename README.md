@@ -3,7 +3,7 @@
 </h2>
 
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/blueyaGIT/blueyaGIT/master/assets/link.gif height=100% width=100% align=center alt=Github Banner />
+<img src=https://raw.githubusercontent.com/blueyaGIT/blueyaGIT/master/assets/futuristic_banner.gif height=100% width=100% align=center alt=Github Banner />
 <!--END_SECTION:update_image-->
 
 ###
