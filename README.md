@@ -95,8 +95,7 @@
 | <a href="https://github.com/blueyaGIT/minitalk"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/minitalkm.png" width="50"></a> | Introduction Project to UNIX signals. | <pre> 125 / 100 </pre> |
 | <a href="https://github.com/blueyaGIT/so_long"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/so_longe.png" width="50"></a> | Creating a small 2D game with MLX42. | <pre> 100 / 100 </pre> |
 | <a href="https://github.com/blueyaGIT/push_swap"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/push_swape.png" width="50"></a> | Using a limited moveset to find the best way to sort two stacks. | <pre>  100 / 100 </pre> |
-| <a href="https://github.com/blueyaGIT/minishell"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/minishelln.png" width="50"></a> | Making a custom shell with brackets for priorities, ’, ", <, >, <<, >>, pipes, $, $?, a history, echo, cd, pwd, export, unset, env, exit, correct executable execution, and more. | <pre>  🛠️  / 100 </pre> |
-| <a href="https://github.com/blueyaGIT/philo"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/philosophersn.png" width="50"></a> | Explore multithreading and process synchronization, inspired by Dijkstra's classic Dining Philosophers problem. | <pre>  🛠️  / 100 </pre> |
+| <a href="https://github.com/blueyaGIT/minishell"><img src="https://github.com/blueyaGIT/blueyaGIT/blob/master/42_badges/minishelle.png" width="50"></a> | Making a custom shell with brackets for priorities, ’, ", <, >, <<, >>, pipes, $, $?, a history, echo, cd, pwd, export, unset, env, exit, correct executable execution, and more. | <pre>  100 / 100 </pre> |
 
 </details>
 
